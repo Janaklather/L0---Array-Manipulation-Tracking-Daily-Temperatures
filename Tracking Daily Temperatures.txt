@@ -1,7 +1,7 @@
 temperatures = [20, 22, 25, 23, 21, 19, 24]
 
-print("Original temperatures:", temperatures)
+console.log("Original temperatures:", temperatures)
 
 temperatures[3] += 2
 
-print("Updated temperatures:", temperatures)
+console.log("Updated temperatures:", temperatures)
